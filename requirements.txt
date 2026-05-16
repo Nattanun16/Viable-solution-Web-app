@@ -1,0 +1,4 @@
+Django==4.2.16
+psycopg[binary]==3.2.4
+django-admin-cli==0.1.1
+mysql-connector-python==8.1.0
